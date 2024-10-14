@@ -1,4 +1,4 @@
-package designpatterns.chainofresponsibility;
+package designpatterns.chainofresponsibility.cor1;
 
 public class Dollar10Dispenser implements DispenseChain {
 

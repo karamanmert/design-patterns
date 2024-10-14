@@ -1,4 +1,4 @@
-package designpatterns.factory;
+package designpatterns.factory.fac1;
 
 /**
  * @author karamanmert
