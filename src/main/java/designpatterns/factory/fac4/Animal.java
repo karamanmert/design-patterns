@@ -6,8 +6,7 @@ package designpatterns.factory.fac4;
  */
 public abstract class Animal {
 
-    public String name;
-
+    String name;
 
     protected abstract String getType();
 
